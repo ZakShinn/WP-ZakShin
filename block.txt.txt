@@ -1,2 +1,6 @@
+127.0.0.1  localhost
+::1  localhost
+
+# [custom]
 127.0.0.1 youtube.com
 127.0.0.1 facebook.com
